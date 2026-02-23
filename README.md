@@ -1,4 +1,4 @@
-[![License GPL 3][badge-license]][copying]
+[![License Mit][badge-license]][copying]
 [![MELPA][melpa-badge]][melpa-package]
 [![MELPA Stable][melpa-stable-badge]][melpa-stable-package]
 
@@ -165,18 +165,5 @@ Crux provides a `crux-reopen-as-root` command for reopening a file as
 root. This global minor mode changes `find-file` so all root files are
 automatically opened as root.
 
-## License
 
-Copyright © 2015-2025 Bozhidar Batsov and [contributors][].
 
-Distributed under the GNU General Public License; type <kbd>C-h C-c</kbd> to view it.
-
-[badge-license]: https://img.shields.io/badge/license-GPL_3-green.svg
-[melpa-badge]: http://melpa.org/packages/crux-badge.svg
-[melpa-stable-badge]: http://stable.melpa.org/packages/crux-badge.svg
-[melpa-package]: http://melpa.org/#/crux
-[melpa-stable-package]: http://stable.melpa.org/#/crux
-[COPYING]: http://www.gnu.org/copyleft/gpl.html
-[contributors]: https://github.com/bbatsov/crux/contributors
-[melpa]: http://melpa.org
-[melpa stable]: http://stable.melpa.org
